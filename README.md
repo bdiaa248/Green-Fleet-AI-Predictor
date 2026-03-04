@@ -14,7 +14,7 @@ The goal of this project is to build an AI-driven predictive system capable of e
 Understanding how emissions are distributed across the dataset helps identify typical emission ranges and potential outliers.
 
 > *Note: Insert your histogram image here*
-> `![CO2 Emissions Distribution](link-to-your-image.png)`
+> ![CO2 Emissions Distribution](https://github.com/bdiaa248/Green-Fleet-AI-Predictor/blob/main/images/co2_emissions_distribution.png)`
 
 This visualization shows that most vehicles fall within a moderate emissions range, while a smaller group of high-emission vehicles appears as a right-side tail.
 
@@ -22,7 +22,7 @@ This visualization shows that most vehicles fall within a moderate emissions ran
 To build an accurate prediction model, it is important to understand how variables relate to each other.
 
 > *Note: Insert your correlation matrix heatmap here*
-> `![Feature Correlation Matrix](link-to-your-image.png)`
+![Feature Correlation Matrix](https://github.com/bdiaa248/Green-Fleet-AI-Predictor/blob/main/images/correlation_matrix_heatmap.png)`
 
 **Key insights from the correlation matrix:**
 * **City fuel consumption** strongly correlates with CO₂ emissions.
